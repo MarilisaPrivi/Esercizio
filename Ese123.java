@@ -5,6 +5,7 @@ public class Ese123
 	{
 		System.out.println("^.^");
 		System.out.println(":(");
+		System.out.println("sto fusa");
 		
 	}
 
